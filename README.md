@@ -3,7 +3,7 @@
 **ndkhangvl/ndkhangvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/ndkhangvl/ndkhangvl/blob/main/khangnguyen.png" width="1584" height="396"/>
 </div>
 
 ---
