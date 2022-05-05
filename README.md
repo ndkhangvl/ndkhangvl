@@ -10,6 +10,9 @@
 - 🔭 I’m currently studying at Can Tho University
 - 🤔 I’m come from Vinh Long
 - 😄 I'm Have fun sociable
+- ⚛️ Profile Visitors Count:
+
+![](https://komarev.com/ghpvc/?username=ndkhangvl&color=blue)
 
 ---
 
@@ -25,12 +28,12 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
----
+### 👋 My Github stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndkhangvl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 
 
