@@ -1,14 +1,9 @@
 ### Hi there 👋
-
-<!--
-**ndkhangvl/ndkhangvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
----
-
 - 🔭 I’m currently studying at Can Tho University
 - 🤔 I’m come from Vinh Long
 - 😄 I'm Have fun sociable
+<!--
+**ndkhangvl/ndkhangvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### :fire: My Stats :
