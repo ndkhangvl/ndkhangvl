@@ -2,9 +2,6 @@
 <!--
 **ndkhangvl/ndkhangvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div align="center">
-  <img src="https://github.com/ndkhangvl/ndkhangvl/blob/main/khangnguyen.png" width="1584" height="396"/>
-</div>
 
 ---
 - 🔭 I’m currently studying at Can Tho University
