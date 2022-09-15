@@ -4,15 +4,16 @@
 -->
 
 ---
+<!--
 - 🔭 I’m currently studying at Can Tho University
 - 🤔 I’m come from Vinh Long
 - 😄 I'm Have fun sociable
 - ⚛️ Profile Visitors Count:
-
+-->
 ![](https://komarev.com/ghpvc/?username=ndkhangvl&color=blue)
 
----
 
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -23,8 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+-->
 
----
 ### 👋 My Github stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndkhangvl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
